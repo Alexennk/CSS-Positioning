@@ -1,0 +1,13 @@
+.dessert {
+    position: relative;
+    left: 8%;
+    top: 50px;
+    width: 500px;
+    padding: 0;
+}
+
+.arrows {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
